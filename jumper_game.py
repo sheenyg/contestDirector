@@ -8,7 +8,6 @@ The game features increasing difficulty and score tracking.
 Dependencies:
 - Python 3.x
 - Pygame (install with: pip install pygame)
-- something else probably 
 
 Controls:
 - SPACE: Jump
