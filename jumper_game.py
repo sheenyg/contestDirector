@@ -5,10 +5,6 @@ Jumper Game
 A simple 2D game where a player character jumps to avoid incoming obstacles.
 The game features increasing difficulty and score tracking.
 
-Dependencies:
-- Python 3.x
-- Pygame (install with: pip install pygame)
-
 Controls:
 - SPACE: Jump
 - R: Restart after game over
